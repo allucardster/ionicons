@@ -1,5 +1,5 @@
 {
-  "build_hash": "e8e0d461cc44800af15d879d18b2b7e2",
+  "build_hash": "a2c6f31123a3cc8385d45bf46c5dde82",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -1011,6 +1011,22 @@
     {
       "code": "0xf148",
       "name": "images"
+    },
+    {
+      "code": "0xf145",
+      "name": "inbe-arrow-right"
+    },
+    {
+      "code": "0xf13b",
+      "name": "inbe-clock"
+    },
+    {
+      "code": "0xf138",
+      "name": "inbe-globe"
+    },
+    {
+      "code": "0xf13c",
+      "name": "inbe-hat"
     },
     {
       "code": "0xf14a",
