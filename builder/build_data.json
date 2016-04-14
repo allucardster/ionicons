@@ -1,5 +1,5 @@
 {
-  "build_hash": "09319f95f96b8c5f86cf142f8b8c421d",
+  "build_hash": "5613db97e98cd16d5ffbaf918099248a",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -1017,8 +1017,20 @@
       "name": "inbe-arrow-right"
     },
     {
+      "code": "0xf155",
+      "name": "inbe-calendar"
+    },
+    {
+      "code": "0xf153",
+      "name": "inbe-chatbox"
+    },
+    {
       "code": "0xf13b",
       "name": "inbe-clock"
+    },
+    {
+      "code": "0xf154",
+      "name": "inbe-cuisine"
     },
     {
       "code": "0xf14f",
@@ -1037,8 +1049,16 @@
       "name": "inbe-globe"
     },
     {
+      "code": "0xf156",
+      "name": "inbe-happy"
+    },
+    {
       "code": "0xf13c",
       "name": "inbe-hat"
+    },
+    {
+      "code": "0xf157",
+      "name": "inbe-help-buoy"
     },
     {
       "code": "0xf14e",
